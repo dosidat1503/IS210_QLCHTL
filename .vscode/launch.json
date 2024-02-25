@@ -1,0 +1,296 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ChiTietKhoDAO",
+            "request": "launch",
+            "mainClass": "DAO_Hibernate.ChiTietKhoDAO",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "NhanVienDAO",
+            "request": "launch",
+            "mainClass": "DAO_Hibernate.NhanVienDAO",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "HoaDonDAO",
+            "request": "launch",
+            "mainClass": "DAO_Hibernate.HoaDonDAO",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "TestProcedure",
+            "request": "launch",
+            "mainClass": "DAO_Hibernate.TestProcedure",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "ChiTietHoaDonDAO",
+            "request": "launch",
+            "mainClass": "DAO_Hibernate.ChiTietHoaDonDAO",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "TestAutoGenerateMaSP",
+            "request": "launch",
+            "mainClass": "DAO_Hibernate.TestAutoGenerateMaSP",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "DoubleClickExample",
+            "request": "launch",
+            "mainClass": "GUI.DoubleClickExample",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "BanHang",
+            "request": "launch",
+            "mainClass": "GUI.Staff.BanHang",
+            "projectName": "ConvinienceStore_Maven",
+            "noDebug": false,
+            "__progressId": "d9f965eb-00de-4722-a7dc-a29fa2971632",
+            "__origin": "internal"
+        },
+        {
+            "type": "java",
+            "name": "TestKhachHang",
+            "request": "launch",
+            "mainClass": "BUS.TestKhachHang",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "TestProcedure",
+            "request": "launch",
+            "mainClass": "DAO_JDBC.TestProcedure",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "TESTTOP10",
+            "request": "launch",
+            "mainClass": "DAO_JDBC.TESTTOP10",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "Test_AddSP_proc",
+            "request": "launch",
+            "mainClass": "DAO_Hibernate.Test_AddSP_proc",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "FocusExample",
+            "request": "launch",
+            "mainClass": "GUI.FocusExample",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "TestgetListSP",
+            "request": "launch",
+            "mainClass": "DAO_JDBC.TestgetListSP",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "TestDoubleClick",
+            "request": "launch",
+            "mainClass": "TestDoubleClick",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "NhanVienHomePage",
+            "request": "launch",
+            "mainClass": "GUI.Staff.NhanVienHomePage",
+            "projectName": "ConvinienceStore_Maven",
+            "noDebug": false,
+            "__progressId": "e3a49cd9-94b7-4dd2-8f78-adb8a24a14e7",
+            "__origin": "internal"
+        },
+        {
+            "type": "java",
+            "name": "TestTimUsername",
+            "request": "launch",
+            "mainClass": "TestTimUsername",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "CallProcedure",
+            "request": "launch",
+            "mainClass": "DAO_Hibernate.CallProcedure",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "DangNhap",
+            "request": "launch",
+            "mainClass": "GUI.DangNhap",
+            "projectName": "ConvinienceStore_Maven",
+            "noDebug": false,
+            "__progressId": "a2857da7-abf7-4cd8-94b7-738ced0a17a6",
+            "__origin": "internal"
+        },
+        {
+            "type": "java",
+            "name": "TestTop10SP_BANCHAY",
+            "request": "launch",
+            "mainClass": "TestTop10SP_BANCHAY",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "AdminHomePage",
+            "request": "launch",
+            "mainClass": "GUI.Admin.AdminHomePage",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "TestAddArray",
+            "request": "launch",
+            "mainClass": "GUI.TestAddArray",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "CustomComboBoxArrowIconExample",
+            "request": "launch",
+            "mainClass": "GUI.CustomComboBoxArrowIconExample",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "BorderComboBoxDemo",
+            "request": "launch",
+            "mainClass": "GUI.BorderComboBoxDemo",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "CuteComboBoxDemo",
+            "request": "launch",
+            "mainClass": "GUI.CuteComboBoxDemo",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "UpdateChildPanel",
+            "request": "launch",
+            "mainClass": "GUI.UpdateChildPanel",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "BanHang",
+            "request": "launch",
+            "mainClass": "GUI.BanHang",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "Five_Panel_1_Row",
+            "request": "launch",
+            "mainClass": "GUI.Five_Panel_1_Row",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "POSPanel",
+            "request": "launch",
+            "mainClass": "GUI.POSPanel",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "hi",
+            "request": "launch",
+            "mainClass": "GUI.hi",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "TestTimSanPham",
+            "request": "launch",
+            "mainClass": "TestTimSanPham",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "DAO_JDBC.test",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "CreateSinhvien",
+            "request": "launch",
+            "mainClass": "CreateSinhvien",
+            "projectName": "ConvinienceStore_Maven"
+        },
+        {
+            "type": "java",
+            "name": "KhoVanGUI",
+            "request": "launch",
+            "mainClass": "GUI.KhoVanGUI",
+            "projectName": "TestMaven"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "DAO_Hibernate.test",
+            "projectName": "TestMaven"
+        },
+        {
+            "type": "java",
+            "name": "TestConnection",
+            "request": "launch",
+            "mainClass": "DAO_JDBC.TestConnection",
+            "projectName": "TestMaven"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "DAO_JDBC.main",
+            "projectName": "TestMaven"
+        },
+        {
+            "type": "java",
+            "name": "test(1)",
+            "request": "launch",
+            "mainClass": "DAO_JDBC.test",
+            "projectName": "TestMaven"
+        },
+        {
+            "type": "java",
+            "name": "TestHibernate",
+            "request": "launch",
+            "mainClass": "TestHibernate",
+            "projectName": "TestMaven"
+        }
+    ]
+}
